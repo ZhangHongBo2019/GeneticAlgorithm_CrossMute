@@ -1,0 +1,2 @@
+# Preface
+This branch mainly includes the operation mechanism of genetic algorithm, including selection, crossover, mutation, and recombination. The algorithms involved include general genetic algorithms and improved genetic algorithms such as NSGA-II. The specific issue is the TSP issue, which is one objective problem. It also includes a specific project for the elevator industry and the decoration industry, both of which involve multi-objective problems.
